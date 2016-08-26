@@ -4,9 +4,9 @@
   <subtitle>asdasd</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://down.bitnami.pub/"/>
   <updated>2016-08-25T05:13:09.234Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://down.bitnami.pub/</id>
   
   <author>
     <name>PPP</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://yoursite.com/2016/08/25/=My-New-Post2/"/>
-    <id>http://yoursite.com/2016/08/25/=My-New-Post2/</id>
+    <link href="http://down.bitnami.pub/2016/08/25/=My-New-Post2/"/>
+    <id>http://down.bitnami.pub/2016/08/25/=My-New-Post2/</id>
     <published>2016-08-25T05:12:31.000Z</published>
     <updated>2016-08-25T05:13:09.234Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://yoursite.com/2016/08/25/My-New-Post/"/>
-    <id>http://yoursite.com/2016/08/25/My-New-Post/</id>
+    <link href="http://down.bitnami.pub/2016/08/25/My-New-Post/"/>
+    <id>http://down.bitnami.pub/2016/08/25/My-New-Post/</id>
     <published>2016-08-25T05:12:31.000Z</published>
     <updated>2016-08-26T00:50:18.375Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/25/hello-world/"/>
-    <id>http://yoursite.com/2016/08/25/hello-world/</id>
+    <link href="http://down.bitnami.pub/2016/08/25/hello-world/"/>
+    <id>http://down.bitnami.pub/2016/08/25/hello-world/</id>
     <published>2016-08-25T05:03:06.312Z</published>
     <updated>2016-08-25T07:37:04.062Z</updated>
     
@@ -77,7 +77,7 @@
     </summary>
     
     
-      <category term="111" scheme="http://yoursite.com/tags/111/"/>
+      <category term="111" scheme="http://down.bitnami.pub/tags/111/"/>
     
   </entry>
   
