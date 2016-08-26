@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://mijue.wang/2016/08/26/hello-world/"/>
-    <id>http://mijue.wang/2016/08/26/hello-world/</id>
+    <link href="http://mijue.wang/uncategorized/hello-world.html"/>
+    <id>http://mijue.wang/uncategorized/hello-world.html</id>
     <published>2016-08-26T04:19:35.171Z</published>
     <updated>2016-08-25T07:37:04.062Z</updated>
     
@@ -46,26 +46,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://mijue.wang/2016/08/25/=My-New-Post2/"/>
-    <id>http://mijue.wang/2016/08/25/=My-New-Post2/</id>
-    <published>2016-08-25T05:12:31.000Z</published>
-    <updated>2016-08-25T05:13:09.234Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;Title&quot;&gt;&lt;a href=&quot;#Title&quot; class=&quot;headerlink&quot; title=&quot;Title&quot;&gt;&lt;/a&gt;Title&lt;/h3&gt;&lt;h2 id=&quot;sub&quot;&gt;&lt;a href=&quot;#sub&quot; class=&quot;headerlink&quot; title=&quot;sub&quot;&gt;&lt;/
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My New Post</title>
-    <link href="http://mijue.wang/2016/08/25/My-New-Post/"/>
-    <id>http://mijue.wang/2016/08/25/My-New-Post/</id>
+    <link href="http://mijue.wang/uncategorized/My-New-Post.html"/>
+    <id>http://mijue.wang/uncategorized/My-New-Post.html</id>
     <published>2016-08-25T05:12:31.000Z</published>
     <updated>2016-08-26T04:38:12.171Z</updated>
     
@@ -82,23 +64,47 @@
   </entry>
   
   <entry>
+    <title>My New Post</title>
+    <link href="http://mijue.wang/uncategorized/=My-New-Post2.html"/>
+    <id>http://mijue.wang/uncategorized/=My-New-Post2.html</id>
+    <published>2016-08-25T05:12:31.000Z</published>
+    <updated>2016-08-25T05:13:09.234Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Title&quot;&gt;&lt;a href=&quot;#Title&quot; class=&quot;headerlink&quot; title=&quot;Title&quot;&gt;&lt;/a&gt;Title&lt;/h3&gt;&lt;h2 id=&quot;sub&quot;&gt;&lt;a href=&quot;#sub&quot; class=&quot;headerlink&quot; title=&quot;sub&quot;&gt;&lt;/
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>计算方式是？《IE计算》</title>
-    <link href="http://mijue.wang/2016/08/24/ie%20time/"/>
-    <id>http://mijue.wang/2016/08/24/ie time/</id>
+    <link href="http://mijue.wang/uncategorized/ie%20time.html"/>
+    <id>http://mijue.wang/uncategorized/ie time.html</id>
     <published>2016-08-24T05:12:31.000Z</published>
-    <updated>2016-08-26T05:43:17.312Z</updated>
+    <updated>2016-08-26T06:50:47.937Z</updated>
     
     <content type="html"><![CDATA[<h3 id="方式是"><a href="#方式是" class="headerlink" title="方式是"></a>方式是</h3><h2 id="计算"><a href="#计算" class="headerlink" title="计算"></a>计算</h2><h3 id="方式是-1"><a href="#方式是-1" class="headerlink" title="方式是"></a>方式是</h3><h2 id="计算-1"><a href="#计算-1" class="headerlink" title="计算"></a>计算</h2><h3 id="方式是-2"><a href="#方式是-2" class="headerlink" title="方式是"></a>方式是</h3><h2 id="计算-2"><a href="#计算-2" class="headerlink" title="计算"></a>计算</h2><p><img src="http://183259.d.yyupload.com/down/183259/uploads/img/wordpress.png" alt="logo"></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;方式是&quot;&gt;&lt;a href=&quot;#方式是&quot; class=&quot;headerlink&quot; title=&quot;方式是&quot;&gt;&lt;/a&gt;方式是&lt;/h3&gt;&lt;h2 id=&quot;计算&quot;&gt;&lt;a href=&quot;#计算&quot; class=&quot;headerlink&quot; title=&quot;计算&quot;&gt;&lt;/a&gt;计算&lt;/h2&gt;&lt;h
+      计算方式
     
     </summary>
     
     
-      <category term="IE工时" scheme="http://mijue.wang/tags/IE%E5%B7%A5%E6%97%B6/"/>
+      <category term="标签1" scheme="http://mijue.wang/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://mijue.wang/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+      <category term="标签3" scheme="http://mijue.wang/tags/%E6%A0%87%E7%AD%BE3/"/>
+    
+      <category term="etc..." scheme="http://mijue.wang/tags/etc/"/>
     
   </entry>
   
