@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>秘诀网</title>
-  <subtitle>一个免费分享各类秘诀的网站</subtitle>
+  <subtitle>掌握了秘诀，也就掌控了生命。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mijue.wang/"/>
-  <updated>2016-08-25T07:37:04.062Z</updated>
+  <updated>2016-08-26T15:55:58.407Z</updated>
   <id>http://mijue.wang/</id>
   
   <author>
@@ -16,95 +16,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://mijue.wang/uncategorized/hello-world.html"/>
-    <id>http://mijue.wang/uncategorized/hello-world.html</id>
-    <published>2016-08-26T04:19:35.171Z</published>
-    <updated>2016-08-25T07:37:04.062Z</updated>
+    <title>水管验收，这些秘诀必须懂！</title>
+    <link href="http://mijue.wang/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/%E8%A3%85%E4%BF%AE%E7%A7%98%E8%AF%80/%E6%B0%B4%E7%AE%A1%E9%AA%8C%E6%94%B6%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%A7%98%E8%AF%80%E5%BF%85%E9%A1%BB%E6%87%82%EF%BC%81.html"/>
+    <id>http://mijue.wang/日常生活/装修秘诀/水管验收，这些秘诀必须懂！.html</id>
+    <published>2016-08-15T00:12:57.000Z</published>
+    <updated>2016-08-26T15:55:58.407Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p><img src="http://183259.d.yyupload.com/down/183259/uploads/img/20160815_shuiguan.jpg" alt="装修秘诀"></p>
+<blockquote>
+<p>水管是日常生活中不可缺少的管道。水管的铺装通常都是由专业的工人来施工的，而施工后必须进行水路验收。若是业主不放心别人验收，那么可以自己学一下水管验收的方法，自己来验收。下面我们就来看一下水管验收的五个步骤，简单实用让你轻松验收水路装修。</p>
+</blockquote>
+<h2 id="验收步骤一：试水试压"><a href="#验收步骤一：试水试压" class="headerlink" title="验收步骤一：试水试压"></a>验收步骤一：试水试压</h2><p>水管试压是水路验收必须要做的一个实验，它的目的在于测试水管有没有渗漏的地方。具体的实验方法是在水管安装好24小时之后，这时水管已经基本趋于稳定了。先在管道内注满水，然后将试压管道的一端堵上，在另一端用手动加压泵在另一端渐渐施加压力，等到管内加压到规定压力时停止加压，然后等到规定时间再来检查压力表的读数，若是有很大的落差，那么说明管道有渗漏水的地方。这里所说的规定时间和规定压力都与水管的材质有关，业主在做打压试验时需要特别注意。</p>
+<h2 id="验收步骤二：冷热水管量间距"><a href="#验收步骤二：冷热水管量间距" class="headerlink" title="验收步骤二：冷热水管量间距"></a>验收步骤二：冷热水管量间距</h2><p>水管分为冷水管和热水管两种材质，冷热水管在铺设时需要保持一定的距离，否则热水管在散热时其热量会使冷水管膨胀，可能导致水管出现裂缝，或是这直接影响使用寿命。而热水管的使用寿命虽不会被影响，但是与冷水管铺设在一起热水在经过热水管时会被冷水管带走一部分热量，导致热水的温度急剧下降，最终水管末端的水温可能就比较低了。验收时，通常按照以下标准：冷热水管的出水弯头应在同一平面同一高度，左热右冷，相距10~15cm为宜，并处在下水口的正上方。</p>
+<h2 id="验收步骤三：注意与燃气管距离"><a href="#验收步骤三：注意与燃气管距离" class="headerlink" title="验收步骤三：注意与燃气管距离"></a>验收步骤三：注意与燃气管距离</h2><p>水管验收时，还要注意与燃气管道的位置和距离。若是燃气管道与热水管的距离较近，那么当热水管的温度比较高时，或者出现冷凝水，就会影响燃气管道，从而削减燃气管道的使用寿命，对于自己及家庭成员的危害不言而喻。在验收水管时要注意水管应与燃气管铺设平行距离要大于50毫米，交叉铺设的距离要大于10毫米。</p>
+<h2 id="验收步骤四：避免水上电下"><a href="#验收步骤四：避免水上电下" class="headerlink" title="验收步骤四：避免水上电下"></a>验收步骤四：避免水上电下</h2><p>水管验收需要检查水电线路是否安装在同一管槽内，若是，那么就为水电安全埋下了很大隐患，因为一旦水管漏水浸泡了电线，那么裸露的电线就会短路或漏电。水管和电管之间距离不应少于50mm，还要确保水管在下、线管在上。</p>
+<h2 id="验收步骤五：水管接头不宜太多"><a href="#验收步骤五：水管接头不宜太多" class="headerlink" title="验收步骤五：水管接头不宜太多"></a>验收步骤五：水管接头不宜太多</h2><p>水管最易出现渗漏的地方就是接口处，因此若非必要尽力减少水管接头。两截水管尽量通过弯头直接连接来减少接头。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      水管是日常生活中不可缺少的管道。水管的铺装通常都是由专业的工人来施工的，而施工后必须进行水路验收。若是业主不放心别人验收，那么可以自己学一下水管验收的方法，自己来验收。下面我们就来看一下水管验收的五个步骤，简单实用让你轻松验收水路装修。
     
     </summary>
     
+      <category term="日常生活" scheme="http://mijue.wang/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
     
-      <category term="111" scheme="http://mijue.wang/tags/111/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>My New Post</title>
-    <link href="http://mijue.wang/uncategorized/=My-New-Post2.html"/>
-    <id>http://mijue.wang/uncategorized/=My-New-Post2.html</id>
-    <published>2016-08-25T05:12:31.000Z</published>
-    <updated>2016-08-25T05:13:09.234Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;Title&quot;&gt;&lt;a href=&quot;#Title&quot; class=&quot;headerlink&quot; title=&quot;Title&quot;&gt;&lt;/a&gt;Title&lt;/h3&gt;&lt;h2 id=&quot;sub&quot;&gt;&lt;a href=&quot;#sub&quot; class=&quot;headerlink&quot; title=&quot;sub&quot;&gt;&lt;/
-    
-    </summary>
+      <category term="装修秘诀" scheme="http://mijue.wang/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/%E8%A3%85%E4%BF%AE%E7%A7%98%E8%AF%80/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>My New Post</title>
-    <link href="http://mijue.wang/uncategorized/My-New-Post.html"/>
-    <id>http://mijue.wang/uncategorized/My-New-Post.html</id>
-    <published>2016-08-25T05:12:31.000Z</published>
-    <updated>2016-08-26T04:38:12.171Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2><p><img src="http://183259.d.yyupload.com/down/183259/uploads/img/wordpress.png" alt="logo"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;Title&quot;&gt;&lt;a href=&quot;#Title&quot; class=&quot;headerlink&quot; title=&quot;Title&quot;&gt;&lt;/a&gt;Title&lt;/h3&gt;&lt;h2 id=&quot;sub&quot;&gt;&lt;a href=&quot;#sub&quot; class=&quot;headerlink&quot; title=&quot;sub&quot;&gt;&lt;/
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>计算方式是？《IE计算》</title>
-    <link href="http://mijue.wang/uncategorized/ie%20time.html"/>
-    <id>http://mijue.wang/uncategorized/ie time.html</id>
-    <published>2016-08-24T05:12:31.000Z</published>
-    <updated>2016-08-26T06:50:47.937Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="方式是"><a href="#方式是" class="headerlink" title="方式是"></a>方式是</h3><h2 id="计算"><a href="#计算" class="headerlink" title="计算"></a>计算</h2><h3 id="方式是-1"><a href="#方式是-1" class="headerlink" title="方式是"></a>方式是</h3><h2 id="计算-1"><a href="#计算-1" class="headerlink" title="计算"></a>计算</h2><h3 id="方式是-2"><a href="#方式是-2" class="headerlink" title="方式是"></a>方式是</h3><h2 id="计算-2"><a href="#计算-2" class="headerlink" title="计算"></a>计算</h2><p><img src="http://183259.d.yyupload.com/down/183259/uploads/img/wordpress.png" alt="logo"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      计算方式
-    
-    </summary>
-    
-    
-      <category term="标签1" scheme="http://mijue.wang/tags/%E6%A0%87%E7%AD%BE1/"/>
-    
-      <category term="标签2" scheme="http://mijue.wang/tags/%E6%A0%87%E7%AD%BE2/"/>
-    
-      <category term="标签3" scheme="http://mijue.wang/tags/%E6%A0%87%E7%AD%BE3/"/>
-    
-      <category term="etc..." scheme="http://mijue.wang/tags/etc/"/>
+      <category term="免费秘诀" scheme="http://mijue.wang/tags/%E5%85%8D%E8%B4%B9%E7%A7%98%E8%AF%80/"/>
     
   </entry>
   
