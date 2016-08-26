@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mijue.wang/"/>
-  <updated>2016-08-25T07:37:04.062Z</updated>
+  <updated>2016-08-26T05:37:50.140Z</updated>
   <id>http://mijue.wang/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>���㷽ʽ�ǣ���IE���㡷</title>
+    <link href="http://mijue.wang/2016/08/26/%E5%B7%A5%E6%97%B6%E8%AE%A1%E7%AE%97/"/>
+    <id>http://mijue.wang/2016/08/26/工时计算/</id>
+    <published>2016-08-26T05:12:31.000Z</published>
+    <updated>2016-08-26T05:37:50.140Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="��ʽ��"><a href="#��ʽ��" class="headerlink" title="��ʽ��"></a>��ʽ��</h3><h2 id="����"><a href="#����" class="headerlink" title="����"></a>����</h2><p><img src="http://183259.d.yyupload.com/down/183259/uploads/img/wordpress.png" alt="logo"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;��ʽ��&quot;&gt;&lt;a href=&quot;#��ʽ��&quot; class=&quot;headerlink&quot; title=&quot;��ʽ��&quot;&gt;&lt;/a&gt;��ʽ��&lt;/h3&gt;&lt;h2 id=&quot;����&quot;&gt;&lt;a href=&quot;#����&quot; class=&quot;headerlink&quot; title=&quot;����&quot;
+    
+    </summary>
+    
+    
+      <category term="IE" scheme="http://mijue.wang/tags/IE/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
