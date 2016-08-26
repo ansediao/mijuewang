@@ -46,13 +46,12 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://mijue.wang/2016/08/25/My-New-Post/"/>
-    <id>http://mijue.wang/2016/08/25/My-New-Post/</id>
+    <link href="http://mijue.wang/2016/08/25/=My-New-Post2/"/>
+    <id>http://mijue.wang/2016/08/25/=My-New-Post2/</id>
     <published>2016-08-25T05:12:31.000Z</published>
-    <updated>2016-08-26T04:38:12.171Z</updated>
+    <updated>2016-08-25T05:13:09.234Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2><p><img src="http://183259.d.yyupload.com/down/183259/uploads/img/wordpress.png" alt="logo"></p>
-]]></content>
+    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2>]]></content>
     
     <summary type="html">
     
@@ -65,12 +64,13 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://mijue.wang/2016/08/25/=My-New-Post2/"/>
-    <id>http://mijue.wang/2016/08/25/=My-New-Post2/</id>
+    <link href="http://mijue.wang/2016/08/25/My-New-Post/"/>
+    <id>http://mijue.wang/2016/08/25/My-New-Post/</id>
     <published>2016-08-25T05:12:31.000Z</published>
-    <updated>2016-08-25T05:13:09.234Z</updated>
+    <updated>2016-08-26T04:38:12.171Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2>]]></content>
+    <content type="html"><![CDATA[<h3 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h3><h2 id="sub"><a href="#sub" class="headerlink" title="sub"></a>sub</h2><p><img src="http://183259.d.yyupload.com/down/183259/uploads/img/wordpress.png" alt="logo"></p>
+]]></content>
     
     <summary type="html">
     
